@@ -47,6 +47,8 @@ train_dataset_path = "E:/BTP_sem8/dataset/vegetable_data_modified/train"
 test_dataset_path = "E:/BTP_sem8/dataset/vegetable_data_modified/test"
 ```
 
+---
+
 ## 📚 Dataset Source
 
 - [Mancozeb and Other Chemical Residues Dataset on Kaggle](https://www.kaggle.com/datasets/vegetabledataset/mancozeb-and-other-chemical-residues)
